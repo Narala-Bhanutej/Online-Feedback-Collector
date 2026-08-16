@@ -2,7 +2,7 @@
 
 ### Feedback Page
 
-![Feedback Page](screenshots/feedback-page.png)
+![Feedback Page](screenshots/feddbackname.png)
 
 ### Admin Login
 
@@ -10,4 +10,4 @@
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard..png)
